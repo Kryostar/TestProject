@@ -17,6 +17,6 @@ Write HTML and CSS code |
 Get a girlfriend |
 
 #### *Future ideas:*
-[ ] kanban style board
-[ ] flow chart
-[ ] merge with google calender for events planner
+* [ ] kanban style board
+* [ ] flow chart
+* [ ] merge with google calender for events planner
